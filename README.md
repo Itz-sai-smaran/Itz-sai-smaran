@@ -1,40 +1,32 @@
-<h1 align="center">hey, i'm sai smaran 👋</h1>
+# hey, i'm sai smaran
 
-<p align="center">
-  CS student · game dev · AI/ML explorer · building things that shouldn't exist yet
-</p>
+proud single CS student. python's my life.
+math and CS are my thing. AI/ML is where it's all heading.
+
+not waiting for college to teach me — already building neural networks from scratch
+and making games that actually work.
+
+## what i know
+- python, C++, SQL
+- pygame, tkinter
+- OOP (big fan)
+- numpy, slowly conquering ML
+
+## what i'm into rn
+- neural networks and universal function approximators
+- game dev
+- figuring out AI before AI figures out all of us
+
+## what i've built
+- Cyberpunk Zero — top down shooter, one of my first games
+- Waveline — built it because spotify ads were annoying
+- C_I_T — high school final project, went all out on it
+- Neural Network From Scratch — numpy only, no shortcuts
+
+## looking for
+a good college. also down to help with any coding stuff or collab —
+hit me up, i'm free.
 
 ---
 
-### 🛠️ what i build
-
-- 🎮 **Cyberpunk Zero** — 2D top-down shooter with enemy AI, parallax, particle effects
-- 🎵 **Waveline** — offline music player with waveform viz + lyric sync (python)
-- 🤖 currently learning neural networks from scratch (numpy only, no cap)
-
----
-
-### 🧰 tech i use
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-000000?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 📊 github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itz-sai-smaran&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-sai-smaran&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Itz-sai-smaran&theme=tokyonight&hide_border=true" />
-</p>
----
-
-<p align="center">Tamil Nadu, India 🇮🇳 · always building, rarely sleeping</p>
+*seriously underrated. connect with me and find out.*
