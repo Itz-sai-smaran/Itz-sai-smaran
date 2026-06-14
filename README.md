@@ -1,13 +1,13 @@
 # hey, i'm sai smaran
 
-proud single CS student. python's my life.
+proud CS student. python's my life.
 math and CS are my thing. AI/ML is where it's all heading.
 
-not waiting for college to teach me — already building neural networks from scratch
+not waiting for college to teach me. already building neural networks from scratch
 and making games that actually work.
 
 ## what i know
-- python, C++, SQL
+- python, C++, SQL, HTML
 - pygame, tkinter
 - OOP (big fan)
 - numpy, slowly conquering ML
